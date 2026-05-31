@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911297546082",
+    "project_id": "tutormatch-cc970",
+    "storage_bucket": "tutormatch-cc970.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911297546082:android:8830197d97de6e50780e3b",
+        "android_client_info": {
+          "package_name": "com.example.tutor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911297546082-m4emre6d4924hjggj9ghma8hslt5h41u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqLSkGZL-z8eYwavJJXoyO5DupIVXGUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911297546082-m4emre6d4924hjggj9ghma8hslt5h41u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911297546082-1o55c33ejbheaeto8b15v5ev1igg6p7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tutorApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
