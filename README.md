@@ -1,29 +1,17 @@
-# TutorMatch
+## 📱 Descargar APK
 
-## Descripción
+Prueba la última versión de TutorMatch descargando el APK desde el repositorio.
 
-Aplicación móvil desarrollada en Flutter para conectar estudiantes con tutores.
+### Características principales
 
-## Características
+* Registro de usuarios
+* Búsqueda de tutores
+* Gestión de perfiles
+* Interfaz moderna desarrollada con Flutter
 
-- Registro e inicio de sesión
-- Búsqueda de tutores
-- Gestión de perfiles
-- Chat entre usuarios
-- Sistema de calificaciones
+## 🛠️ Tecnologías
 
-## Tecnologías
+* Flutter
+* Dart
+* Firebase
 
-- Flutter
-- Dart
-- Firebase
-
-## Instalación
-
-flutter pub get
-
-flutter run
-
-## Autor
-
-Luis Heber Tobón Ballén
